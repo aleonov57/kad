@@ -89,4 +89,4 @@ function init() {
 
 </body>
 </html>
-<!-- коммент --> 
+тест1
